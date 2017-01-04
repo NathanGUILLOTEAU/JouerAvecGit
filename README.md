@@ -40,7 +40,7 @@ git checkout develop
 
 git merge master
 
-### Github vers Local
+### Tags
 
 git tag versionX XXXXXX
 
