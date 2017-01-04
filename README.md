@@ -12,7 +12,7 @@ git remote add origin https://github.com/NathanGUILLOTEAU/JouerAvecGit.git
 
 (develop)
 
-*-Git add . 
+Git add . 
 
 Git commit -m "Blabla" 
 
