@@ -10,7 +10,7 @@ git remote add origin https://github.com/NathanGUILLOTEAU/JouerAvecGit.git
 
 ##Quotidien 
 
-# Local vers Github
+### Local vers Github
 
 (develop)
 
@@ -28,7 +28,7 @@ git push origin master
 
 git checkout develop
 
-# Github vers Local
+### Github vers Local
 
 (master)
 
@@ -39,3 +39,9 @@ git checkout develop
 (develop)
 
 git merge master
+
+### Github vers Local
+
+git tag versionX XXXXXX
+
+git push origin versionX
